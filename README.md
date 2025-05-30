@@ -6,6 +6,14 @@ Currently, I’m learning the **MERN stack** (MongoDB, Express, React, Node.js) 
 
 ---
 
+## 💻 Projects
+
+- [**Responsive Registration Form**](https://github.com/Kaustubh-Dalvi1001/Responsive-Registration-Form-HTML-CSS-Bootstrap)  
+  A responsive form built with HTML, CSS, and Bootstrap.  
+  🔗 [Live Demo](https://kaustubh-dalvi1001.github.io/Responsive-Registration-Form-HTML-CSS-Bootstrap/)
+
+---
+
 ## 🧠 Skills
 
 - **Frontend:** HTML5, CSS3, Bootstrap, JavaScript, jQuery  
