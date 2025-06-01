@@ -12,6 +12,10 @@ Currently, I’m learning the **MERN stack** (MongoDB, Express, React, Node.js) 
   A responsive form built with HTML, CSS, and Bootstrap.  
   🔗 [Live Demo](https://kaustubh-dalvi1001.github.io/Responsive-Registration-Form-HTML-CSS-Bootstrap/)
 
+  🧮 Simple Calculator App
+A clean, functional calculator built using HTML, CSS, and JavaScript.
+🔗 [Live Demo](https://kaustubh-dalvi1001.github.io/Simple-JavaScript-Calculator/) | [View Code](https://github.com/Kaustubh-Dalvi1001/Simple-JavaScript-Calculator.git)
+
 ---
 
 ## 🧠 Skills
