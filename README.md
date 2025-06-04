@@ -15,6 +15,9 @@ Currently, I’m learning the **MERN stack** (MongoDB, Express, React, Node.js) 
 - [**Simple Calculator App**](https://github.com/Kaustubh-Dalvi1001/Simple-JavaScript-Calculator)  
   A clean, functional calculator built using HTML, CSS, and JavaScript.  
   🔗 [Live Demo](https://kaustubh-dalvi1001.github.io/Simple-JavaScript-Calculator/)
+- [**Rock Paper Scissors Game**](https://github.com/Kaustubh-Dalvi1001/Rock-Paper-Scissors-Game-JS)  
+  A fun and interactive Rock Paper Scissors game using HTML, CSS, and JavaScript.  
+  🔗 [Live Demo](https://kaustubh-dalvi1001.github.io/Rock-Paper-Scissors-Game-JS/)
 
 ---
 
