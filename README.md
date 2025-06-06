@@ -18,7 +18,7 @@ Currently, I’m learning the **MERN stack** (MongoDB, Express, React, Node.js) 
 - [**Rock Paper Scissors Game**](https://github.com/Kaustubh-Dalvi1001/Rock-Paper-Scissors-Game-JS)  
   A fun and interactive Rock Paper Scissors game using HTML, CSS, and JavaScript.  
   🔗 [Live Demo](https://kaustubh-dalvi1001.github.io/Rock-Paper-Scissors-Game-JS/)
-- [**Tic Tac Toe Game**](https://github.com/Kaustubh-Dalvi1001/Tic-Tac-Toe-JavaScript-Game)  
+- [**Tic Tac Toe Game**](https://github.com/Kaustubh-Dalvi1001/Tic-Tac-Toe-Game.git)  
   A fun, responsive Tic Tac Toe game built with HTML, CSS, and JavaScript.  
   🔗 [Live Demo](https://kaustubh-dalvi1001.github.io/Tic-Tac-Toe-Game/)
 
