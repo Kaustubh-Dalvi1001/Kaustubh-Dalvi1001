@@ -21,6 +21,9 @@ Currently, I’m learning the **MERN stack** (MongoDB, Express, React, Node.js) 
 - [**Tic Tac Toe Game**](https://github.com/Kaustubh-Dalvi1001/Tic-Tac-Toe-Game.git)  
   A fun, responsive Tic Tac Toe game built with HTML, CSS, and JavaScript.  
   🔗 [Live Demo](https://kaustubh-dalvi1001.github.io/Tic-Tac-Toe-Game/)
+- [**To-Do App**](https://github.com/Kaustubh-Dalvi1001/To-Do-App-JavaScript.git)  
+  A clean, responsive to-do list app built with HTML, CSS, and JavaScript, featuring localStorage support.  
+  🔗 [Live Demo](https://kaustubh-dalvi1001.github.io/To-Do-App-JavaScript/)
 
 
 ---
