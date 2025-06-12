@@ -24,7 +24,11 @@ Currently, I’m learning the **MERN stack** (MongoDB, Express, React, Node.js) 
 - [**To-Do App**](https://github.com/Kaustubh-Dalvi1001/To-Do-App-JavaScript.git)  
   A clean, responsive to-do list app built with HTML, CSS, and JavaScript, featuring localStorage support.  
   🔗 [Live Demo](https://kaustubh-dalvi1001.github.io/To-Do-App-JavaScript/)
-
+  
+- [**Myntra Clone**](https://github.com/Kaustubh-Dalvi1001/Myntra-Clone-Frontend.git)  
+  A fully responsive e-commerce frontend clone of Myntra built with HTML, CSS, and JavaScript.  
+  Includes homepage product listings, add-to-cart functionality, dynamic price summary, and clean UI.  
+  🔗 [Live Demo](https://kaustubh-dalvi1001.github.io/Myntra-Clone-Frontend/)
 
 ---
 
