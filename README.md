@@ -30,6 +30,11 @@ Currently, I’m learning the **MERN stack** (MongoDB, Express, React, Node.js) 
   Includes homepage product listings, add-to-cart functionality, dynamic price summary, and clean UI.  
   🔗 [Live Demo](https://kaustubh-dalvi1001.github.io/Myntra-Clone-Frontend/)
 
+- [**React Calculator App**](https://github.com/Kaustubh-Dalvi1001/React-Calculator-App)  
+A clean, responsive calculator built using React.js, Vite, and Bootstrap.  
+Performs basic arithmetic operations with a modern UI and modular component design.  
+🔗 [Live Demo](https://kaustubh-dalvi1001.github.io/React-Calculator-App/)
+
 ---
 
 ## 🧠 Skills
