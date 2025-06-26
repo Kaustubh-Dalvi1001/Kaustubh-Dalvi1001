@@ -35,6 +35,12 @@ A clean, responsive calculator built using React.js, Vite, and Bootstrap.
 Performs basic arithmetic operations with a modern UI and modular component design.  
 🔗 [Live Demo](https://kaustubh-dalvi1001.github.io/React-Calculator-App/)
 
+- [**React Todo App (with JSON Server)**](https://github.com/Kaustubh-Dalvi1001/React-Todo-App-jsonserver)  
+A responsive and minimal task manager built using React.js, Vite, and JSON Server.  
+Supports adding, editing, and deleting tasks with live backend integration using a mock REST API.  
+🔗 [Live Demo](https://kaustubh-dalvi1001.github.io/React-Todo-App-jsonserver/)
+
+
 ---
 
 ## 🧠 Skills
