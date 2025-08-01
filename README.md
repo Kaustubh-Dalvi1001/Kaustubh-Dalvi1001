@@ -1,8 +1,12 @@
 # 👋 Hi, I'm Kaustubh
 
-I'm an aspiring **Full Stack Web Developer**, making a career switch from the aviation industry to tech. I graduated in Hospitality Studies from DY Patil University and worked at Mumbai International Airport before fully committing to my passion for web development.
+## 🚀 Frontend Web Developer in the Making | MERN Stack Learner
 
-Currently, I’m learning the **MERN stack** (MongoDB, Express, React, Node.js) and building real-world projects to sharpen my skills and contribute meaningfully to the developer community.
+I'm passionate about building intuitive, responsive web applications using modern technologies like **React**, **Vite**, **Bootstrap**, and more.  
+Currently focused on mastering front-end development and creating real-world projects to strengthen my skills.
+
+I'm also learning the **MERN stack** to expand into full-stack development soon.  
+Previously worked in the aviation industry and hold a degree in Hospitality Studies from **DY Patil University**.
 
 ---
 
@@ -52,9 +56,9 @@ Users can register, create, edit, delete, and like posts. Includes smooth UI ani
 
 ## 🧠 Skills
 
-- **Frontend:** HTML5, CSS3, Bootstrap, JavaScript, jQuery  
+- **Frontend:** HTML5, CSS3, Bootstrap, JavaScript, React.js, MongoDB  
 - **Version Control:** Git & GitHub  
-- **Currently Learning:** React.js, Node.js, Express.js, MongoDB
+- **Currently Learning:** Node.js, Express.js
 
 ---
 
