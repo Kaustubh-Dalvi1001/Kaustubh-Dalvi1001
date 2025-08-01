@@ -8,38 +8,45 @@ Currently, I’m learning the **MERN stack** (MongoDB, Express, React, Node.js) 
 
 ## 💻 Projects
 
-- [**Responsive Registration Form**](https://github.com/Kaustubh-Dalvi1001/Responsive-Registration-Form-HTML-CSS-Bootstrap)  
-  A responsive form built with HTML, CSS, and Bootstrap.  
-  🔗 [Live Demo](https://kaustubh-dalvi1001.github.io/Responsive-Registration-Form-HTML-CSS-Bootstrap/)
+- [**Postify – Social Media Web App**]([https://github.com/Kaustubh-Dalvi1001/Postify](https://github.com/Kaustubh-Dalvi1001/Postify-Frontend-Social-Media-Web-App-React-Vite-MockAPI-.git))  
+A full-featured front-end social media application built using React.js, Vite, Bootstrap, CSS Modules, Context API, and AOS.  
+Users can register, create, edit, delete, and like posts. Includes smooth UI animations, route protection, image previews, and a profile section with CRUD functionality.  
+🔗 [Live Demo]([https://kaustubh-dalvi1001.github.io/Postify/](https://kaustubh-dalvi1001.github.io/Postify-Frontend-Social-Media-Web-App-React-Vite-MockAPI-/))
 
-- [**Simple Calculator App**](https://github.com/Kaustubh-Dalvi1001/Simple-JavaScript-Calculator)  
-  A clean, functional calculator built using HTML, CSS, and JavaScript.  
-  🔗 [Live Demo](https://kaustubh-dalvi1001.github.io/Simple-JavaScript-Calculator/)
-- [**Rock Paper Scissors Game**](https://github.com/Kaustubh-Dalvi1001/Rock-Paper-Scissors-Game-JS)  
-  A fun and interactive Rock Paper Scissors game using HTML, CSS, and JavaScript.  
-  🔗 [Live Demo](https://kaustubh-dalvi1001.github.io/Rock-Paper-Scissors-Game-JS/)
-- [**Tic Tac Toe Game**](https://github.com/Kaustubh-Dalvi1001/Tic-Tac-Toe-Game.git)  
-  A fun, responsive Tic Tac Toe game built with HTML, CSS, and JavaScript.  
-  🔗 [Live Demo](https://kaustubh-dalvi1001.github.io/Tic-Tac-Toe-Game/)
-- [**To-Do App**](https://github.com/Kaustubh-Dalvi1001/To-Do-App-JavaScript.git)  
-  A clean, responsive to-do list app built with HTML, CSS, and JavaScript, featuring localStorage support.  
-  🔗 [Live Demo](https://kaustubh-dalvi1001.github.io/To-Do-App-JavaScript/)
-  
+- [**React Todo App (with JSON Server)**](https://github.com/Kaustubh-Dalvi1001/React-Todo-App-jsonserver)  
+  A responsive and minimal task manager built using React.js, Vite, and JSON Server.  
+  Supports adding, editing, and deleting tasks with live backend integration using a mock REST API.  
+  🔗 [Live Demo](https://kaustubh-dalvi1001.github.io/React-Todo-App-jsonserver/)
+
+- [**React Calculator App**](https://github.com/Kaustubh-Dalvi1001/React-Calculator-App)  
+  A clean, responsive calculator built using React.js, Vite, and Bootstrap.  
+  Performs basic arithmetic operations with a modern UI and modular component design.  
+  🔗 [Live Demo](https://kaustubh-dalvi1001.github.io/React-Calculator-App/)
+
 - [**Myntra Clone**](https://github.com/Kaustubh-Dalvi1001/Myntra-Clone-Frontend.git)  
   A fully responsive e-commerce frontend clone of Myntra built with HTML, CSS, and JavaScript.  
   Includes homepage product listings, add-to-cart functionality, dynamic price summary, and clean UI.  
   🔗 [Live Demo](https://kaustubh-dalvi1001.github.io/Myntra-Clone-Frontend/)
 
-- [**React Calculator App**](https://github.com/Kaustubh-Dalvi1001/React-Calculator-App)  
-A clean, responsive calculator built using React.js, Vite, and Bootstrap.  
-Performs basic arithmetic operations with a modern UI and modular component design.  
-🔗 [Live Demo](https://kaustubh-dalvi1001.github.io/React-Calculator-App/)
+- [**To-Do App**](https://github.com/Kaustubh-Dalvi1001/To-Do-App-JavaScript.git)  
+  A clean, responsive to-do list app built with HTML, CSS, and JavaScript, featuring localStorage support.  
+  🔗 [Live Demo](https://kaustubh-dalvi1001.github.io/To-Do-App-JavaScript/)
 
-- [**React Todo App (with JSON Server)**](https://github.com/Kaustubh-Dalvi1001/React-Todo-App-jsonserver)  
-A responsive and minimal task manager built using React.js, Vite, and JSON Server.  
-Supports adding, editing, and deleting tasks with live backend integration using a mock REST API.  
-🔗 [Live Demo](https://kaustubh-dalvi1001.github.io/React-Todo-App-jsonserver/)
+- [**Tic Tac Toe Game**](https://github.com/Kaustubh-Dalvi1001/Tic-Tac-Toe-Game.git)  
+  A fun, responsive Tic Tac Toe game built with HTML, CSS, and JavaScript.  
+  🔗 [Live Demo](https://kaustubh-dalvi1001.github.io/Tic-Tac-Toe-Game/)
 
+- [**Rock Paper Scissors Game**](https://github.com/Kaustubh-Dalvi1001/Rock-Paper-Scissors-Game-JS)  
+  A fun and interactive Rock Paper Scissors game using HTML, CSS, and JavaScript.  
+  🔗 [Live Demo](https://kaustubh-dalvi1001.github.io/Rock-Paper-Scissors-Game-JS/)
+
+- [**Simple Calculator App**](https://github.com/Kaustubh-Dalvi1001/Simple-JavaScript-Calculator)  
+  A clean, functional calculator built using HTML, CSS, and JavaScript.  
+  🔗 [Live Demo](https://kaustubh-dalvi1001.github.io/Simple-JavaScript-Calculator/)
+
+- [**Responsive Registration Form**](https://github.com/Kaustubh-Dalvi1001/Responsive-Registration-Form-HTML-CSS-Bootstrap)  
+  A responsive form built with HTML, CSS, and Bootstrap.  
+  🔗 [Live Demo](https://kaustubh-dalvi1001.github.io/Responsive-Registration-Form-HTML-CSS-Bootstrap/)
 
 ---
 
