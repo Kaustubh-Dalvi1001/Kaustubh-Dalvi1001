@@ -13,7 +13,7 @@ Previously worked in the aviation industry and hold a degree in Hospitality Stud
 ## 💻 Projects
 
 - [**Foodie – Restaurant Listing & Menu App**](https://github.com/Kaustubh-Dalvi1001/foodie-react-vite-app)  
-A responsive React + Vite application that lists restaurants and dynamically displays their menus. Built with functional components, React Hooks (`useState`, `useEffect`), and React Router DOM for dynamic routing. Features include search, filtering, reusable components, and a clean, modern UI optimized for mobile, tablet, and desktop.
+A responsive restaurant listing and menu web app that fetches live restaurant data from **Swiggy’s public API**, processes complex nested data, and displays dynamic menus. Users can search and filter restaurants and navigate seamlessly using React Router. Built with functional components, React Hooks, and reusable UI components. Fully optimized for mobile, tablet, and desktop with a clean, modern design.
 
 - [**Postify – Social Media Web App**](https://github.com/Kaustubh-Dalvi1001/Postify-Frontend-Social-Media-Web-App-React-Vite-MockAPI-.git)  
 A full-featured front-end social media application built using React.js, Vite, Bootstrap, CSS Modules, Context API, and AOS.  
